@@ -39,7 +39,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2303.17580">HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</a></div>
     <div class="author"><strong>Yongliang Shen*</strong>, Kaitao Song*, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang</div>
-    <div class="periodical"><em>Arxiv, 2023.</em></div>
+    <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2303.17580" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <a href="https://arxiv.org/abs/2303.17580" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2303.17580-009922.svg?style=flat-square"></a>
@@ -49,6 +49,46 @@
       <a href="https://www.semanticscholar.org/paper/HuggingGPT%3A-Solving-AI-Tasks-with-ChatGPT-and-its-Shen-Song/bf54ccf6e5c9a7da47a0909471002881913f02ba" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/bf54ccf6e5c9a7da47a0909471002881913f02ba?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
       <a href="https://github.com/microsoft/JARVIS" class="btn-badge"><img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social&label=stars"></a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://aclanthology.org/2021.acl-long.216/">Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</a></div>
+    <div class="author"><strong>Yongliang Shen</strong>, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu</div>
+    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2105.06804" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2105.06804-009922.svg?style=flat-square"></a>
+      <!-- <a href="https://github.com/tricktreat/locate-and-label" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://www.semanticscholar.org/paper/Locate-and-Label%3A-A-Two-stage-Identifier-for-Nested-Shen-Ma/0ab855d5a81fdcb33a884465df6598570a1d0a21" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/0ab855d5a81fdcb33a884465df6598570a1d0a21?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
+      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">Oral Presentation</i></strong></a> -->
+      <a href="#" class="btn-badge"><img src="https://img.shields.io/badge/🏆 - Oral Presentation -b31b1b?style=flat-square"></a>
+      <a href="https://github.com/tricktreat/locate-and-label" class="btn-badge"><img src="https://img.shields.io/github/stars/tricktreat/locate-and-label?style=social&label=stars"></a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://aclanthology.org/2022.semeval-1.200/">DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition</a></div>
+    <div class="author">Xinyu Wang*, <strong>Yongliang Shen*</strong>, Jiong Cai*, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang</div>
+    <div class="periodical"><em>International Workshop on Semantic Evaluation <strong>(SemEval)</strong>, 2022.</em></div>
+    <div class="links">
+      <!-- <a href="https://arxiv.org/pdf/2203.00545" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://arxiv.org/abs/2203.00545" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2203.00545-009922.svg?style=flat-square"></a>
+      <!-- <a href="https://github.com/Alibaba-NLP/KB-NER" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://www.semanticscholar.org/paper/DAMO-NLP-at-SemEval-2022-Task-11%3A-A-Knowledge-based-Wang-Shen/ad18ba0bddd64578ab9c4f9648429b7637157f24" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/ad18ba0bddd64578ab9c4f9648429b7637157f24?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
+      <!-- <strong><i style="color:#e74d3c">Best System Paper</i></strong> -->
+      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">Best System Paper</i></strong></a> -->
+      <a href="#" class="btn-badge"><img src="https://img.shields.io/badge/🏆 - Best System Paper -b31b1b?style=flat-square"></a>
+      <a href="https://github.com/Alibaba-NLP/KB-NER" class="btn-badge"><img src="https://img.shields.io/github/stars/Alibaba-NLP/KB-NER?style=social&label=stars"></a>
     </div>
   </div>
 </div>
@@ -117,45 +157,6 @@
       <a href="https://www.semanticscholar.org/paper/PromptNER%3A-Prompt-Locating-and-Typing-for-Named-Shen-Tan/bd2c32285e8ad5b6e322391cca5d475de4f84169" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/bd2c32285e8ad5b6e322391cca5d475de4f84169?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
       <a href="https://github.com/tricktreat/PromptNER" class="btn-badge"><img src="https://img.shields.io/github/stars/tricktreat/PromptNER?style=social&label=stars"></a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://aclanthology.org/2021.acl-long.216/">Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</a></div>
-    <div class="author"><strong>Yongliang Shen</strong>, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu</div>
-    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2021.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2105.06804" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2105.06804-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/tricktreat/locate-and-label" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://www.semanticscholar.org/paper/Locate-and-Label%3A-A-Two-stage-Identifier-for-Nested-Shen-Ma/0ab855d5a81fdcb33a884465df6598570a1d0a21" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/0ab855d5a81fdcb33a884465df6598570a1d0a21?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
-      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">Oral Presentation</i></strong></a> -->
-      <a href="#" class="btn-badge"><img src="https://img.shields.io/badge/🏆 - Oral Presentation -b31b1b?style=flat-square"></a>
-      <a href="https://github.com/tricktreat/locate-and-label" class="btn-badge"><img src="https://img.shields.io/github/stars/tricktreat/locate-and-label?style=social&label=stars"></a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://aclanthology.org/2022.semeval-1.200/">DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition</a></div>
-    <div class="author">Xinyu Wang*, <strong>Yongliang Shen*</strong>, Jiong Cai*, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang</div>
-    <div class="periodical"><em>International Workshop on Semantic Evaluation <strong>(SemEval)</strong>, 2022.</em></div>
-    <div class="links">
-      <!-- <a href="https://arxiv.org/pdf/2203.00545" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <a href="https://arxiv.org/abs/2203.00545" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2203.00545-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/Alibaba-NLP/KB-NER" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://www.semanticscholar.org/paper/DAMO-NLP-at-SemEval-2022-Task-11%3A-A-Knowledge-based-Wang-Shen/ad18ba0bddd64578ab9c4f9648429b7637157f24" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/ad18ba0bddd64578ab9c4f9648429b7637157f24?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
-      <!-- <strong><i style="color:#e74d3c">Best System Paper</i></strong> -->
-      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">Best System Paper</i></strong></a> -->
-      <a href="#" class="btn-badge"><img src="https://img.shields.io/badge/🏆 - Best System Paper -b31b1b?style=flat-square"></a>
-      <a href="https://github.com/Alibaba-NLP/KB-NER" class="btn-badge"><img src="https://img.shields.io/github/stars/Alibaba-NLP/KB-NER?style=social&label=stars"></a>
     </div>
   </div>
 </div>

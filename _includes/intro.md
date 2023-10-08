@@ -9,11 +9,12 @@ I am a fourth-year Ph.D. student advised by [Weiming Lu](https://scholar.google.
 
 ## Research Interests
 
-- **Large Language Models**, especially on [LLM powered autonomous agents](ttps://lilianweng.github.io/posts/2023-06-23-agent/) and multimodal LLMs, focusing on the abilities of LLMs for planning, tool use, memory, and environment interaction.
+- **Large Language Models**, especially on [LLM powered autonomous agents](https://lilianweng.github.io/posts/2023-06-23-agent/) and multimodal LLMs, focusing on the abilities of LLMs for planning, tool use, memory, and environment interaction.
 - **Knowledge Graph**, especially on knowledge-enhanced LMs and information extraction (*e.g.* named entity recognition, relation extraction).
 - **Generative Models**, especially on the application of generative models (*e.g.* latent variable models) in the area of NLP.
 
 ## News
-
-- **[May. 2023]** Three papers (2 main conference and 1 findings) are accepted by ACL 2023.
-- **[March. 2023]** We released HuggingGPT, a multi-agents collaboration system with a large language model as the controller.
+- **[October, 2023]** Three papers (2 main conference and 1 findings) are accepted by EMNLP 2023.
+- **[September, 2023]** One paper (HuggingGPT) is accepted by NeurIPS 2023.
+- **[May, 2023]** Three papers (2 main conference and 1 findings) are accepted by ACL 2023.
+- **[March, 2023]** We released HuggingGPT, a multi-agents collaboration system with a large language model as the controller.
