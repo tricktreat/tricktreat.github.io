@@ -54,6 +54,29 @@
 
 <li>
 <div class="pub-row">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/diffusionner.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACL</abbr>
+  </div> -->
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="hhttps://arxiv.org/abs/2306.07209">Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow</a></div>
+    <div class="author">Wenqi Zhang, <strong>Yongliang Shen</strong>, Weiming Lu, Yueting Zhuang</div>
+    <div class="periodical"><em>Arxiv, 2023.</em></div>
+    <div class="links">
+    <a href="https://arxiv.org/abs/2306.07209" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2306.07209-009922.svg?style=flat-square"></a>
+      <!-- <a href="https://github.com/tricktreat/DiffusionNER" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <a href="https://www.semanticscholar.org/paper/Data-Copilot%3A-Bridging-Billions-of-Data-and-Humans-Zhang-Shen/473eb062612a17c965eaa62136322f0dec6b1f8e" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/473eb062612a17c965eaa62136322f0dec6b1f8e?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
+      <a href="https://github.com/zwq2018/data-copilot" class="btn-badge"><img src="https://img.shields.io/github/stars/zwq2018/data-copilot?style=social&label=stars"></a>
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://aclanthology.org/2021.acl-long.216/">Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</a></div>
     <div class="author"><strong>Yongliang Shen</strong>, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu</div>
@@ -114,27 +137,6 @@
 </li>
 
 
-<li>
-<div class="pub-row">
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/diffusionner.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ACL</abbr>
-  </div> -->
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="hhttps://arxiv.org/abs/2306.07209">Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow</a></div>
-    <div class="author">Wenqi Zhang, <strong>Yongliang Shen</strong>, Weiming Lu, Yueting Zhuang</div>
-    <div class="periodical"><em>Arxiv, 2023.</em></div>
-    <div class="links">
-    <a href="https://arxiv.org/abs/2306.07209" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2306.07209-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/tricktreat/DiffusionNER" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <a href="https://www.semanticscholar.org/paper/Data-Copilot%3A-Bridging-Billions-of-Data-and-Humans-Zhang-Shen/473eb062612a17c965eaa62136322f0dec6b1f8e" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/473eb062612a17c965eaa62136322f0dec6b1f8e?fields=citationCount&style=flat-square&logo=semanticscholar"></a>
-      <a href="https://github.com/zwq2018/data-copilot" class="btn-badge"><img src="https://img.shields.io/github/stars/zwq2018/data-copilot?style=social&label=stars"></a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
 
 
 <li>
