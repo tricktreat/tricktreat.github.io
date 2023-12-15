@@ -14,6 +14,7 @@ I am a fourth-year Ph.D. student advised by [Weiming Lu](https://scholar.google.
 - **Generative Models**, especially on the application of generative models (*e.g.* latent variable models) in the area of NLP.
 
 ## News
+- **[November, 2023]** We released TaskBench, a benchmark for evaluating the task automation capabilities of large language models.
 - **[October, 2023]** Three papers (2 main conference and 1 findings) are accepted by EMNLP 2023.
 - **[September, 2023]** One paper (HuggingGPT) is accepted by NeurIPS 2023.
 - **[May, 2023]** Three papers (2 main conference and 1 findings) are accepted by ACL 2023.
