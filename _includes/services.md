@@ -1,6 +1,8 @@
 ## Services
 
-PC Member: ACL 2021-2023, EMNLP 2021-2022, NAACL 2022, AAAI 2022, NeurIPS 2022, ICLR 2023
+- ACL Area Chair, ACL Rolling Review Action Editor
+- PC Member: ACL 2021-2023, EMNLP 2021-2022, NAACL 2022, AAAI 2022, NeurIPS 2022, ICLR 2023
+
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
 
