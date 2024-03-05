@@ -1,6 +1,6 @@
 ## Services
 
-- ACL Area Chair, ACL Rolling Review Action Editor
+- Area Chair / Action Editor: ACL 2024, ACL Rolling Review
 - PC Member: ACL 2021-2023, EMNLP 2021-2022, NAACL 2022, AAAI 2022, NeurIPS 2022, ICLR 2023
 
 
