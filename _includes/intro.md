@@ -15,6 +15,7 @@ I am a final-year Ph.D. student advised by [Weiming Lu](https://scholar.google.c
 
 ## News
 
+- **[May, 2024]** 6 papers (4 main conference and 2 findings) are accepted by ACL 2024, focusing on Evolving Agent, Theory of Mind, Parameter-Efficient and Progressive Tuning.
 - **[February, 2024]** Glad to serve as an Area Chair for ARR Rolling Review and ACL 2024.
 - **[February, 2024]** We released [Agent-Pro](https://arxiv.org/abs/2402.17574), an LLM-based Agent with Policy-level Reflection and Optimization that can progressively elevate its behavioral policy.
 - **[January, 2024]** We released [EasyTool](https://arxiv.org/abs/2401.06201), enhancing the efficiency of tool usage for LLM-based Agents!
