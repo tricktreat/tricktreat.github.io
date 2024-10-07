@@ -16,7 +16,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2303.17580">HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</a></div>
-    <div class="author"><strong>Yongliang Shen*</strong>, Kaitao Song*, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang</div>
+    <div class="author"><strong>Yongliang Shen</strong>, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang</div>
     <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2303.17580" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
@@ -118,7 +118,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2407.00390">Advancing Process Verification for Large Language Models via Tree-Based Preference Learning</a></div>
-    <div class="author">Mingqian He, <strong>Yongliang Shen</strong>, Wenqi Zhang, Zeqi Tan, Weiming Lu</div>
+    <div class="author">Mingqian He, <strong>Yongliang Shen#</strong>, Wenqi Zhang, Zeqi Tan, Weiming Lu</div>
     <div class="periodical"><em>Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2407.00390" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2407.00390-009922.svg?style=flat-square"></a>
@@ -155,14 +155,33 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/publications/timetom.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EMNLP Findings</abbr>
+    <abbr class="badge">ACL Findings</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="hhttps://arxiv.org/pdf/2407.01455">TimeToM: Temporal Space is the Key to Unlocking the Door of Large Language Models' Theory-of-Mind</a></div>
     <div class="author">Guiyang Hou, Wenqi Zhang, <strong>Yongliang Shen</strong>, Linjuan Wu, Weiming Lu</div>
-    <div class="periodical"><em>Findings of Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP Findings)</strong>, 2024.</em></div>
+    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2024.</em></div>
     <div class="links">
     <a href="hhttps://arxiv.org/pdf/2407.01455" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2407.01455-009922.svg?style=flat-square"></a>
+      <!-- <a href="https://github.com/zwq2018/Multi-modal-Self-instruct" class="btn-badge"><img src="https://img.shields.io/github/stars/zwq2018/Multi-modal-Self-instruct?style=social&label=stars"></a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/progressivetuning.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACL Findings</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://aclanthology.org/2024.findings-acl.855/">Progressive Tuning: Towards Generic Sentiment Abilities for Large Language Models</a></div>
+    <div class="author">Guiyang Hou, <strong>Yongliang Shen</strong>, Weiming Lu</div>
+    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://aclanthology.org/2024.findings-acl.855/" class="btn-badge"><img src="https://img.shields.io/badge/ACL_Findings-long.855-009922.svg?style=flat-square"></a>
       <!-- <a href="https://github.com/zwq2018/Multi-modal-Self-instruct" class="btn-badge"><img src="https://img.shields.io/github/stars/zwq2018/Multi-modal-Self-instruct?style=social&label=stars"></a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
