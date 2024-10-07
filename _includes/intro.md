@@ -15,6 +15,9 @@ I am a final-year Ph.D. student advised by [Weiming Lu](https://scholar.google.c
 
 ## News
 
+- **[October, 2024]** One paper (TaskBench) is accepted by NeurIPS 2024.
+- **[September, 2024]** Two papers are accepted by EMNLP 2024, focusing on LLM reasoning and Multimodal Self-Instruct.
+- **[July, 2024]** HuggingGPT is selected as the 2024 WAIC Excellent Yourth Paper Award.
 - **[May, 2024]** 6 papers (4 main conference and 2 findings) are accepted by ACL 2024, focusing on Evolving Agent, Theory of Mind, Parameter-Efficient and Progressive Tuning.
 - **[February, 2024]** Glad to serve as an Area Chair for ARR Rolling Review and ACL 2024.
 - **[February, 2024]** We released [Agent-Pro](https://arxiv.org/abs/2402.17574), an LLM-based Agent with Policy-level Reflection and Optimization that can progressively elevate its behavioral policy.
