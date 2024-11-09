@@ -1,7 +1,7 @@
 ## About Me
 
 
-I received my Ph.D. degree from [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). My research interests include large language models, AI agents and knowledge graph. I am a member of [DCD Lab](#) and worked closely with Prof. [Weiming Lu](https://scholar.google.com/citations?user=H42slBQAAAAJ&hl=en).
+I am an assistant professor (ZJU-100 Young Professor) at Zhejiang University. I received my Ph.D. degree from [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). My research interests include large language models, AI agents and knowledge graph. I am a member of [DCD Lab](#) and worked closely with Prof. [Weiming Lu](https://scholar.google.com/citations?user=H42slBQAAAAJ&hl=en).
 From 2021 to 2022, I was a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/), mentored by Xiaobin Wang and [Yong Jiang](https://jiangyong.site/). 
 From 2022 to 2023, I was a research intern at [Microsoft Research Asia](https://www.msra.cn), mentored by [Kaitao Song](https://scholar.google.com/citations?user=LLk9dR8AAAAJ) and [Xu Tan](https://tan-xu.github.io/).
 
